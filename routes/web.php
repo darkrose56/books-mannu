@@ -27,6 +27,9 @@ use App\Http\Controllers\PushNotificationController;
 |
 */
 
+
+
+
 Route::get('/', function () {
     return view('welcome');
 });
